@@ -33,3 +33,16 @@ figcaption{
 figure img { 
 width: 800px;
 }
+
+.matriz-docesescandalos{
+
+width: 550px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.matriz-docesescandalos{
+
+    width: 275px;
+    float: right;
+}
