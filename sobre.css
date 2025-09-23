@@ -3,12 +3,13 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-family: "Helvetica" , "Lucida Grande" , sans-serif;
-    color:blueviolet;
+    color:rgb(8, 21, 29);
 }
 
-h1 {
+.titulo {
     padding: 10px;
-    background-color: darkslategray;
+    font-size: 32px;
+    background-color: rgb(98, 116, 218);
 
 }
 
