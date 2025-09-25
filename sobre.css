@@ -13,7 +13,7 @@ body {
 
 }
 
-h2{
+.subtitulo{
 border-bottom: 2px solid black;
 
 }
@@ -23,7 +23,7 @@ figure{
     margin: 30px;
     padding: 15px;
     text-align: center;
-    background-color: whitesmoke;
+    background-color: rgb(78, 62, 62);
     border: 1px solid lightgray;
 }
 
