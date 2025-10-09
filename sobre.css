@@ -64,3 +64,22 @@ figure img{
 width: 100px;
 float: left;
 }
+
+.contato__subtitulo {
+display: inline;
+}
+ 
+.contato__info {
+    margin: 16px 0 24px;
+padding-left: 32px;
+}
+ 
+.contato__info-titulo,
+.contato__info-descricao {
+display: inline;
+}
+ 
+.contato__info-descricao{
+    margin-left: 10px;
+}
+ 
