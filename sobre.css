@@ -68,6 +68,16 @@ float: left;
 .contato__subtitulo {
 display: inline;
 }
+
+.contato_secao{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px;
+}
+
+.contato__secao--telefone{
+    margin-left: 32px;
+}
  
 .contato__info {
     margin: 16px 0 24px;
