@@ -1,0 +1,15 @@
+.cabecalho{
+    background-color: #2D5377;
+    color: aquamarine;
+    text-align: center;
+    font-size: 0.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.23rem;
+
+}
+
+.cabecalho_logo {
+padding: 1.5rem;
+width: 14.5rem;
+}
